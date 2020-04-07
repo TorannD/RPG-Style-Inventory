@@ -5,3 +5,9 @@ D:\Santhosh\Modding\RPG Style Inventory\Source_1.1\Sandy_Detailed_RPG_Inventory\
 D:\Santhosh\Modding\RPG Style Inventory\Source_1.1\Sandy_Detailed_RPG_Inventory\Sandy_Detailed_RPG_Inventory\obj\Debug\net472\Sandy_Detailed_RPG_Inventory.dll
 D:\Santhosh\Modding\RPG Style Inventory\Source_1.1\Sandy_Detailed_RPG_Inventory\Sandy_Detailed_RPG_Inventory\obj\Debug\net472\Sandy_Detailed_RPG_Inventory.pdb
 D:\Santhosh\Modding\RPG Style Inventory\Source_1.1\Sandy_Detailed_RPG_Inventory\Sandy_Detailed_RPG_Inventory\obj\Debug\net472\Sandy_Detailed_RPG_Inventory.csprojAssemblyReference.cache
+E:\Programs\Steam\steamapps\common\RimWorld\Mods\RPG-Style-Inventory\1.1\Assemblies\net472\Sandy_Detailed_RPG_Inventory.dll
+E:\Programs\Steam\steamapps\common\RimWorld\Mods\RPG-Style-Inventory\Source_1.1\Sandy_Detailed_RPG_Inventory\Sandy_Detailed_RPG_Inventory\obj\Debug\net472\Sandy_Detailed_RPG_Inventory.csprojAssemblyReference.cache
+E:\Programs\Steam\steamapps\common\RimWorld\Mods\RPG-Style-Inventory\Source_1.1\Sandy_Detailed_RPG_Inventory\Sandy_Detailed_RPG_Inventory\obj\Debug\net472\Sandy_Detailed_RPG_Inventory.csproj.CoreCompileInputs.cache
+E:\Programs\Steam\steamapps\common\RimWorld\Mods\RPG-Style-Inventory\Source_1.1\Sandy_Detailed_RPG_Inventory\Sandy_Detailed_RPG_Inventory\obj\Debug\net472\Sandy_Detailed_RPG_Inventory.AssemblyInfoInputs.cache
+E:\Programs\Steam\steamapps\common\RimWorld\Mods\RPG-Style-Inventory\Source_1.1\Sandy_Detailed_RPG_Inventory\Sandy_Detailed_RPG_Inventory\obj\Debug\net472\Sandy_Detailed_RPG_Inventory.AssemblyInfo.cs
+E:\Programs\Steam\steamapps\common\RimWorld\Mods\RPG-Style-Inventory\Source_1.1\Sandy_Detailed_RPG_Inventory\Sandy_Detailed_RPG_Inventory\obj\Debug\net472\Sandy_Detailed_RPG_Inventory.dll

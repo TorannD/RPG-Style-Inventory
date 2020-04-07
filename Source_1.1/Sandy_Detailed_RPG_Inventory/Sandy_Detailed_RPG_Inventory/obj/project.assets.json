@@ -8,19 +8,23 @@
     ".NETFramework,Version=v4.7.2": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Gladius\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Santhosh\\Modding\\RPG Style Inventory\\Source_1.1\\Sandy_Detailed_RPG_Inventory\\Sandy_Detailed_RPG_Inventory\\Sandy_Detailed_RPG_Inventory.csproj",
+      "projectUniqueName": "E:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\RPG-Style-Inventory\\Source_1.1\\Sandy_Detailed_RPG_Inventory\\Sandy_Detailed_RPG_Inventory\\Sandy_Detailed_RPG_Inventory.csproj",
       "projectName": "Sandy_Detailed_RPG_Inventory",
-      "projectPath": "D:\\Santhosh\\Modding\\RPG Style Inventory\\Source_1.1\\Sandy_Detailed_RPG_Inventory\\Sandy_Detailed_RPG_Inventory\\Sandy_Detailed_RPG_Inventory.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Santhosh\\Modding\\RPG Style Inventory\\Source_1.1\\Sandy_Detailed_RPG_Inventory\\Sandy_Detailed_RPG_Inventory\\obj\\",
+      "projectPath": "E:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\RPG-Style-Inventory\\Source_1.1\\Sandy_Detailed_RPG_Inventory\\Sandy_Detailed_RPG_Inventory\\Sandy_Detailed_RPG_Inventory.csproj",
+      "packagesPath": "C:\\Users\\Gladius\\.nuget\\packages\\",
+      "outputPath": "E:\\Programs\\Steam\\steamapps\\common\\RimWorld\\Mods\\RPG-Style-Inventory\\Source_1.1\\Sandy_Detailed_RPG_Inventory\\Sandy_Detailed_RPG_Inventory\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gladius\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -42,9 +46,7 @@
       }
     },
     "frameworks": {
-      "net472": {
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
-      }
+      "net472": {}
     }
   }
 }
